@@ -6,6 +6,8 @@ Kalaakar AI is an AI-powered digital commerce assistant designed to help Indian 
 
 The platform allows an artisan to provide a **photo and voice description** of their product and converts it into a market-ready digital listing with multilingual content, AI-powered visuals, pricing assistance, and buyer matching.
 
+[![Live Web App](https://img.shields.io/badge/Live%20App-Kalakar.vercel.app-B5502E.svg?style=for-the-badge&logo=vercel)](https://kala-kar-ai.vercel.app/)
+
 ---
 
 ##  Problem Statement
@@ -46,6 +48,20 @@ The system reduces the technical effort required to digitally sell handmade prod
 -  **Pricing Assistance**
 -  **Buyer Matching**
 -  **Simple Artisan-Friendly Interface**
+
+---
+## Screenshots
+
+**Kalaakar AI — a digital companion for artisans.**  
+One platform to showcase crafts, manage products, understand customer interest, and negotiate better.
+
+| Sign In | Artisan Dashboard | My Products |
+|---|---|---|
+| ![Sign In](screenshots/01-sign-in.png) | ![Dashboard](screenshots/02-dashboard.png) | ![My Products](screenshots/03-my-products.png) |
+
+| AI Grahak Mitra | Analytics | Settings |
+|---|---|---|
+| ![AI Grahak Mitra](screenshots/04-grahak-mitra.png) | ![Analytics](screenshots/05-analytics.png) | ![Settings](screenshots/06-settings.png) |
 
 ---
 
@@ -394,35 +410,6 @@ A complete demonstration should cover:
 8. Product visuals are generated
 9. Pricing assistance is displayed
 10. Suitable buyers/market opportunities are presented
-
----
-
-##  Smart India Hackathon
-
-**Project:** Kalaakar AI — From Craft to Commerce
-
-**Hackathon:** Smart India Hackathon
-
-**Category:** Software
-
-**Problem Statement ID:** `<ADD PS ID>`
-
-**Team ID:** `<ADD TEAM ID>`
-
-**Team Name:** `<ADD REGISTERED TEAM NAME>`
-
----
-
-##  Team
-
-| Name | Role |
-|---|---|
-| `<Member 1>` | Team Leader |
-| `<Member 2>` | Developer |
-| `<Member 3>` | Developer |
-| `<Member 4>` | Developer |
-| `<Member 5>` | Developer |
-| `<Member 6>` | Developer |
 
 ---
 
