@@ -1,8 +1,8 @@
-# KalaConnect AI — From Craft to Commerce
+# Kalaakar AI — From Craft to Commerce
 
 > **Transforming every artisan into a digitally empowered entrepreneur through a simple, AI-driven virtual business manager.**
 
-KalaConnect AI is an AI-powered digital commerce assistant designed to help Indian artisans and craftspeople easily take their handmade products from **craft to commerce**.
+Kalaakar AI is an AI-powered digital commerce assistant designed to help Indian artisans and craftspeople easily take their handmade products from **craft to commerce**.
 
 The platform allows an artisan to provide a **photo and voice description** of their product and converts it into a market-ready digital listing with multilingual content, AI-powered visuals, pricing assistance, and buyer matching.
 
@@ -28,7 +28,7 @@ These challenges can prevent artisans from reaching wider markets and receiving 
 
 ##  Our Solution
 
-**KalaConnect AI** acts as a simple virtual business manager for artisans.
+**Kalaakar AI** acts as a simple virtual business manager for artisans.
 
 An artisan can simply:
 
@@ -65,7 +65,7 @@ These objectives are directly aligned with the project's SIH idea submission.
 
 ---
 
-##  How KalaConnect AI Works
+##  How Kalaakar AI Works
 
 ```text
                 ┌──────────────────┐
@@ -78,7 +78,7 @@ These objectives are directly aligned with the project's SIH idea submission.
                          │
                          ▼
               ┌─────────────────────┐
-              │    KalaConnect AI   │
+              │    Kalaakar AI   │
               │    AI Processing     │
               └──────────┬──────────┘
                          │
@@ -141,7 +141,7 @@ This reduces the need for typing and makes the platform easier to use for artisa
 
 ### 3. Multilingual Support
 
-KalaConnect AI is designed to reduce language barriers between artisans and digital marketplaces.
+Kalaakar AI is designed to reduce language barriers between artisans and digital marketplaces.
 
 The platform supports multilingual content generation so that artisans can communicate their products to a wider audience.
 
@@ -157,7 +157,7 @@ This helps improve the presentation of handmade products in online marketplaces.
 
 ### 5. Pricing Assistance
 
-KalaConnect AI aims to help artisans understand suitable and competitive pricing for their products.
+Kalaakar AI aims to help artisans understand suitable and competitive pricing for their products.
 
 The objective is to support **fair and competitive pricing** rather than forcing artisans to depend completely on intermediaries.
 
@@ -210,7 +210,7 @@ The SIH proposal identifies the technical approach, idea flowchart, implementati
 
 ##  Key Benefits
 
-| Challenge | KalaConnect AI Solution |
+| Challenge | Kalaakar AI Solution |
 |---|---|
 | Difficult listing creation | AI-generated listings |
 | Typing difficulties | Voice-based input |
@@ -224,7 +224,7 @@ The SIH proposal identifies the technical approach, idea flowchart, implementati
 
 ##  Target Users
 
-KalaConnect AI is primarily designed for:
+Kalaakar AI is primarily designed for:
 
 - Traditional artisans
 - Handicraft makers
@@ -237,7 +237,7 @@ KalaConnect AI is primarily designed for:
 
 ##  Expected Impact
 
-KalaConnect AI aims to create impact by:
+Kalaakar AI aims to create impact by:
 
 - Increasing digital participation of artisans
 - Improving product discoverability
@@ -317,7 +317,7 @@ The original proposal lists India Handmade and a Government of India PIB referen
 ##  Project Structure
 
 ```text
-KalaConnect-AI/
+Kalaakar-AI/
 │
 ├── src/
 │   ├── components/
@@ -351,7 +351,7 @@ KalaConnect-AI/
 
 ```bash
 git clone <YOUR-GITHUB-REPOSITORY-URL>
-cd KalaConnect-AI
+cd Kalaakar-AI
 ```
 
 ### 2. Install dependencies
@@ -397,6 +397,35 @@ A complete demonstration should cover:
 
 ---
 
+##  Smart India Hackathon
+
+**Project:** Kalaakar AI — From Craft to Commerce
+
+**Hackathon:** Smart India Hackathon
+
+**Category:** Software
+
+**Problem Statement ID:** `<ADD PS ID>`
+
+**Team ID:** `<ADD TEAM ID>`
+
+**Team Name:** `<ADD REGISTERED TEAM NAME>`
+
+---
+
+##  Team
+
+| Name | Role |
+|---|---|
+| `<Member 1>` | Team Leader |
+| `<Member 2>` | Developer |
+| `<Member 3>` | Developer |
+| `<Member 4>` | Developer |
+| `<Member 5>` | Developer |
+| `<Member 6>` | Developer |
+
+---
+
 ##  License
 
 This project is developed for the **Smart India Hackathon**.
@@ -409,6 +438,6 @@ Add the appropriate open-source license here if the project is intended to be pu
 
 > **From Craft to Commerce.**
 
-KalaConnect AI aims to bridge the gap between India's rich traditional craftsmanship and the modern digital marketplace.
+Kalaakar AI aims to bridge the gap between India's rich traditional craftsmanship and the modern digital marketplace.
 
 **Every artisan deserves the opportunity to be digitally visible, economically empowered, and connected to the right market.**
